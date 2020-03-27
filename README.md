@@ -1,2 +1,2 @@
 # Sample_Repo
-Sample Repo created for
+Sample Repo created for testing merge conflicts
